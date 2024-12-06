@@ -36,7 +36,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
   <img width="12" />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg](https://play-lh.googleusercontent.com/RGP-yfOh0DMLMUJlpzRzo1QE4l9kFrjkeuQdhWy1YMRSxeJnj2R2i7BsvAEXA1MLZow=w240-h480-rw)" height="30" alt="maximo movbilelogo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="30" alt="postgresql logo"  />
+  
 </div>
 
 ###
